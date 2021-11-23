@@ -1,0 +1,31 @@
+{
+ "users": [
+  {
+   "name": "Elliot",
+   "type": "Reader",
+   "age": 23,
+   "social": {
+    "facebook": "https://facebook.com/elliot",
+    "twitter": "https://twitter.com/elliot"
+   }
+  },
+  {
+   "name": "Fraser",
+   "type": "Author",
+   "age": 17,
+   "social": {
+    "facebook": "https://facebook.com/Fraser17",
+    "twitter": "https://twitter.com/Fraser17"
+   }
+  },
+  {
+   "name": "Mr.F",
+   "type": "Developer",
+   "age": 25,
+   "social": {
+    "facebook": "https://facebook.com/f",
+    "twitter": "https://twitter.com/f"
+   }
+  }
+ ]
+}
